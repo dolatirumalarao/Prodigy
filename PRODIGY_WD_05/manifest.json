@@ -1,0 +1,22 @@
+{
+  "name": "WeatherNow",
+  "short_name": "Weather",
+  "description": "A simple weather app that shows real-time weather data by city.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e3f2fd",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
